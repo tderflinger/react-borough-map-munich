@@ -37,3 +37,7 @@ out body;
 >;
 out skel qt;
 ```
+
+## License
+
+MIT License
