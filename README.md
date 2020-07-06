@@ -2,6 +2,8 @@
 
 Interactive borough map of Munich with SVG and React.
 
+![Interactive Map](./Munich-boroughs.png)
+
 For more information see my blog:
 
 https://www.tderflinger.com/en/interactive-svg-map-munich
