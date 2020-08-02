@@ -2574,9 +2574,9 @@ bluebird@^3.5.5:
   integrity sha512-XpNj6GDQzdfW+r2Wnn7xiSAd7TM3jzkxGXBGTtWKuSXv1xUV+azxAm8jdWZN06QTQk+2N2XB9jRDkvbmQmcRtg==
 
 bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.4.0:
-  version "4.11.8"
-  resolved "https://registry.yarnpkg.com/bn.js/-/bn.js-4.11.8.tgz#2cde09eb5ee341f484746bb0309b3253b1b1442f"
-  integrity sha512-ItfYfPLkWHUjckQCk8xC+LwxgK8NYcXywGigJgSwOP8Y2iyWT4f2vsZnoOXTTbo+o5yXmIUJ4gn5538SO5S3gA==
+  version "4.11.9"
+  resolved "https://registry.yarnpkg.com/bn.js/-/bn.js-4.11.9.tgz#26d556829458f9d1e81fc48952493d0ba3507828"
+  integrity sha512-E6QoYqCKZfgatHTdHzs1RRKP7ip4vvm+EyRUeE2RF0NblwVvb0p6jSVeNTOFxPn26QXN2o6SMfNxKp6kU8zQaw==
 
 body-parser@1.19.0:
   version "1.19.0"
@@ -3021,15 +3021,6 @@ clean-css@^4.2.3:
   integrity sha512-VcMWDN54ZN/DS+g58HYL5/n4Zrqe8vHJpGA8KdgUXFU4fuP/aHNw8eld9SyEIyabIMJX/0RaY/fplOo5hYLSFA==
   dependencies:
     source-map "~0.6.0"
-
-clean-deep@3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/clean-deep/-/clean-deep-3.0.2.tgz#1b7096822f289cc491ca6d85af5c028cbb22fc23"
-  integrity sha512-sLUtFxYtHc3jM9pmwyYXOLln0nnQ1OhFrefQ7nqUlva1crHDbi4gVO+nnMSm5jztFXIRDMt+kMNh0mOscbARow==
-  dependencies:
-    lodash.isempty "^4.4.0"
-    lodash.isplainobject "^4.0.6"
-    lodash.transform "^4.6.0"
 
 clean-stack@^2.0.0:
   version "2.2.0"
@@ -3720,14 +3711,6 @@ deep-is@~0.1.3:
   resolved "https://registry.yarnpkg.com/deep-is/-/deep-is-0.1.3.tgz#b369d6fb5dbc13eecf524f91b070feedc357cf34"
   integrity sha1-s2nW+128E+7PUk+RsHD+7cNXzzQ=
 
-deep-rename-keys@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/deep-rename-keys/-/deep-rename-keys-0.2.1.tgz#ede78537d7a66a2be61517e2af956d7f58a3f1d8"
-  integrity sha1-7eeFN9emaivmFRfir5Vtf1ij8dg=
-  dependencies:
-    kind-of "^3.0.2"
-    rename-keys "^1.1.2"
-
 default-gateway@^4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/default-gateway/-/default-gateway-4.2.0.tgz#167104c7500c2115f6dd69b0a536bb8ed720552b"
@@ -4012,9 +3995,9 @@ electron-to-chromium@^1.3.378:
   integrity sha512-NK9DBBYEBb5f9D7zXI0hiE941gq3wkBeQmXs1ingigA/jnTg5mhwY2Z5egwA+ZI8OLGKCx0h1Cl8/xeuIBuLlg==
 
 elliptic@^6.0.0:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/elliptic/-/elliptic-6.5.2.tgz#05c5678d7173c049d8ca433552224a495d0e3762"
-  integrity sha512-f4x70okzZbIQl/NSRLkI/+tteV/9WqL98zx+SQ69KbXxmVrmjwsNUPn/gYJJ0sHvEak24cZgHIPegRePAtA/xw==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/elliptic/-/elliptic-6.5.3.tgz#cb59eb2efdaf73a0bd78ccd7015a62ad6e0f93d6"
+  integrity sha512-IMqzv5wNQf+E6aHeIqATs0tOLeOTwj1QKbRcS3jBbYkl5oLAserA8yJTT7/VyHUYG91PRmPyeQDObKLPpeS4dw==
   dependencies:
     bn.js "^4.4.0"
     brorand "^1.0.1"
@@ -4378,11 +4361,6 @@ etag@~1.8.1:
   version "1.8.1"
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
   integrity sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc=
-
-eventemitter3@^2.0.0:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/eventemitter3/-/eventemitter3-2.0.3.tgz#b5e1079b59fb5e1ba2771c0a993be060a58c99ba"
-  integrity sha1-teEHm1n7XhuidxwKmTvgYKWMmbo=
 
 eventemitter3@^4.0.0:
   version "4.0.0"
@@ -6661,11 +6639,6 @@ lodash.clonedeep@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.clonedeep/-/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef"
   integrity sha1-4j8/nE+Pvd6HJSnBBxhXoIblzO8=
 
-lodash.isempty@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/lodash.isempty/-/lodash.isempty-4.4.0.tgz#6f86cbedd8be4ec987be9aaf33c9684db1b31e7e"
-  integrity sha1-b4bL7di+TsmHvpqvM8loTbGzHn4=
-
 lodash.isplainobject@^4.0.6:
   version "4.0.6"
   resolved "https://registry.yarnpkg.com/lodash.isplainobject/-/lodash.isplainobject-4.0.6.tgz#7c526a52d89b45c45cc690b88163be0497f550cb"
@@ -6695,11 +6668,6 @@ lodash.templatesettings@^4.0.0:
   integrity sha512-stgLz+i3Aa9mZgnjr/O+v9ruKZsPsndy7qPZOchbqk2cnTU1ZaldKK+v7m54WoKIyxiuMZTKT2H81F8BeAc3ZQ==
   dependencies:
     lodash._reinterpolate "^3.0.0"
-
-lodash.transform@^4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/lodash.transform/-/lodash.transform-4.6.0.tgz#12306422f63324aed8483d3f38332b5f670547a0"
-  integrity sha1-EjBkIvYzJK7YSD0/ODMrX2cFR6A=
 
 lodash.uniq@^4.5.0:
   version "4.5.0"
@@ -7374,14 +7342,6 @@ obuf@^1.0.0, obuf@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/obuf/-/obuf-1.1.2.tgz#09bea3343d41859ebd446292d11c9d4db619084e"
   integrity sha512-PX1wu0AmAdPqOL1mWhqmlOd8kOIZQwGZw6rh7uby9fTc5lhaOWFLX3I6R1hrF9k3zUY40e6igsLGkDXK92LJNg==
-
-omit-deep@0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/omit-deep/-/omit-deep-0.3.0.tgz#21c8af3499bcadd29651a232cbcacbc52445ebec"
-  integrity sha1-IcivNJm8rdKWUaIyy8rLxSRF6+w=
-  dependencies:
-    is-plain-object "^2.0.1"
-    unset-value "^0.1.1"
 
 on-finished@~2.3.0:
   version "2.3.0"
@@ -9086,11 +9046,6 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-rename-keys@^1.1.2:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/rename-keys/-/rename-keys-1.2.0.tgz#be602fb0b750476b513ebe85ba4465d03254f0a3"
-  integrity sha512-U7XpAktpbSgHTRSNRrjKSrjYkZKuhUukfoBlXWXUExCAqhzh1TU3BDRAfJmarcl5voKS+pbKU9MvyLWKZ4UEEg==
-
 renderkid@^2.0.1:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/renderkid/-/renderkid-2.0.3.tgz#380179c2ff5ae1365c522bf2fcfcff01c5b74149"
@@ -10077,13 +10032,6 @@ supports-color@^7.0.0, supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svg-maps@^1.0.0-beta.1:
-  version "1.0.0-beta.1"
-  resolved "https://registry.yarnpkg.com/svg-maps/-/svg-maps-1.0.0-beta.1.tgz#40b5f6a75abe681ef7915dd2dd1d9b7ad75d0929"
-  integrity sha512-2uqnYx0TZBqi42elMa1JHrpkeYpQHo8wgvHSzRj3r/P5chusZtXVgEtlpSmrKUcneeVP1Z7K+dUSnLhKepE/mA==
-  dependencies:
-    svgson "^3.1.0"
-
 svg-parser@^2.0.0:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/svg-parser/-/svg-parser-2.0.4.tgz#fdc2e29e13951736140b76cb122c8ee6630eb6b5"
@@ -10107,16 +10055,6 @@ svgo@^1.0.0, svgo@^1.2.2:
     stable "^0.1.8"
     unquote "~1.1.1"
     util.promisify "~1.0.0"
-
-svgson@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/svgson/-/svgson-3.1.0.tgz#25d0bda3678490e8e8a23782cc6fa8f458e3c8fa"
-  integrity sha512-7DbA8d02COOjp+BACdxrPJNaIrlKROhNloktJF6lbeVz4syVLAKv8ViwHScwXK0RSLeTFND4OuJFpRlrdoqRuw==
-  dependencies:
-    clean-deep "3.0.2"
-    deep-rename-keys "^0.2.1"
-    omit-deep "0.3.0"
-    xml-reader "2.4.3"
 
 symbol-tree@^3.2.2:
   version "3.2.4"
@@ -10446,14 +10384,6 @@ unquote@~1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/unquote/-/unquote-1.1.1.tgz#8fded7324ec6e88a0ff8b905e7c098cdc086d544"
   integrity sha1-j97XMk7G6IoP+LkF58CYzcCG1UQ=
-
-unset-value@^0.1.1:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/unset-value/-/unset-value-0.1.2.tgz#506810b867f27c2a5a6e9b04833631f6de58d310"
-  integrity sha1-UGgQuGfyfCpabpsEgzYx9t5Y0xA=
-  dependencies:
-    has-value "^0.3.1"
-    isobject "^3.0.0"
 
 unset-value@^1.0.0:
   version "1.0.0"
@@ -11027,25 +10957,10 @@ ws@^6.1.2, ws@^6.2.1:
   dependencies:
     async-limiter "~1.0.0"
 
-xml-lexer@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/xml-lexer/-/xml-lexer-0.2.2.tgz#518193a4aa334d58fc7d248b549079b89907e046"
-  integrity sha1-UYGTpKozTVj8fSSLVJB5uJkH4EY=
-  dependencies:
-    eventemitter3 "^2.0.0"
-
 xml-name-validator@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/xml-name-validator/-/xml-name-validator-3.0.0.tgz#6ae73e06de4d8c6e47f9fb181f78d648ad457c6a"
   integrity sha512-A5CUptxDsvxKJEU3yO6DuWBSJz/qizqzJKOMIfUJHETbBw/sFaDxgd6fxm1ewUaM0jZ444Fc5vC5ROYurg/4Pw==
-
-xml-reader@2.4.3:
-  version "2.4.3"
-  resolved "https://registry.yarnpkg.com/xml-reader/-/xml-reader-2.4.3.tgz#9f810caf7c425a5aafb848b1c45103c9e71d7530"
-  integrity sha1-n4EMr3xCWlqvuEixxFEDyecddTA=
-  dependencies:
-    eventemitter3 "^2.0.0"
-    xml-lexer "^0.2.2"
 
 xmlchars@^2.1.1:
   version "2.2.0"
